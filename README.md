@@ -31,12 +31,12 @@ Emotion recognition based on electroencephalogram (EEG) is one of the most promi
 
 ### Cublic Filtered Brain Map Creation Method Overview
 <p align="center">
-  <img src="/figs/CFBM_overview.png" width="600"/>
+  <img src="CFBM_overview.png" width="600"/>
 </p>
 
 ### Models Overview
 <p align="center">
-  <img src="/figs/models_overview.png" width="600"/>
+  <img src="models_overview.png" width="600"/>
 </p>
 
 ## Experimental Results
