@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#">Xuange Gao<sup>1,2</sup></a>, 
-  Danli Wang<sup>1,2✝</sup>, 
+  Danli Wang<sup>1,2†</sup>, 
   <a href="#">Yanyan Zhao<sup>1,2</sup></a>, 
   Xinyuan Wang<sup>1,2</sup>
 </p>
