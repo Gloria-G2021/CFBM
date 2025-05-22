@@ -126,6 +126,13 @@ CUDA_VISIBLE_DEVICES=1 python ./train/train.py \
 
 
 ### Step 3: Running
+* Create the `checkpoints` folder with two subfolders: `pth` and `results`:
+
+```bash
+checkpoints/
+├── pth/
+└── results/
+```
 * Once the setup has been verified, proceed with the following step:
 
 
