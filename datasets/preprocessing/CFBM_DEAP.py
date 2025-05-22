@@ -101,4 +101,3 @@ if __name__ == '__main__':
         print("final shape:", data.shape)
         sio.savemat(result_dir + file,
                     {"data": data, "valence_labels": valence_labels, "arousal_labels": arousal_labels})
-        # break
