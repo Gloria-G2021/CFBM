@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://ieeexplore.ieee.org/abstract/document/10981248">
-    CFBM: Cubic Filtered Brain Map Creation Method and Models for Eeg-Based Emotion Recognition
+    CFBM: Cubic Filtered Brain Map Creation Method and Models for EEG-Based Emotion Recognition
   </a>
 </h1>
 
