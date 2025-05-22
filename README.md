@@ -6,9 +6,9 @@
 </h1>
 
 <p align="center">
-  <a href="#">Xuange Gao<sup>1,2</sup></a>, 
+  <a href="https://scholar.google.com/citations?user=AZSVH9sAAAAJ&hl=en">Xuange Gao<sup>1,2</sup></a>, 
   Danli Wang<sup>1,2†</sup>, 
-  <a href="#">Yanyan Zhao<sup>1,2</sup></a>, 
+  Yanyan Zhao<sup>1,2</sup>, 
   Xinyuan Wang<sup>1,2</sup>
 </p>
 
