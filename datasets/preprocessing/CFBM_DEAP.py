@@ -90,7 +90,7 @@ def pre_process(path):
 if __name__ == '__main__':
     dataset_dir = "./datasets/DEAP_all_0p5/"
 
-    result_dir = "./datasets/DEAP_0p5_81_deblurred_1_map/"
+    result_dir = "./datasets/DEAP_0p5_81_deblurred_2_map/"
     if os.path.isdir(result_dir) == False:
         os.makedirs(result_dir)
 
